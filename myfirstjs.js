@@ -66,11 +66,6 @@ let bord3rs = 100;
 let _under = "hello";
 let $pro = 50;
 
-//1
-//12
-//123
-//1234
-//12345
 let sname = "1";
 let i = 1;
 while (i <= 5) {
